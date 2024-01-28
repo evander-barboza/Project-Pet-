@@ -2,7 +2,7 @@
 
 ## Descrição do projeto :
 
-Este projeto de estudo foi desenvolvido no curso Start na programação: HTML, CSS e JavaScript da plataforma OneBitCode, envolve uma criação de um site para uma clínica veterinária PetLife, com o objetivo de explorar as melhores práticas de design e desenvolvimento da web para apresentar os serviços da clínica e de gerenciamento de experiências e informações.
+Este projeto de estudo foi desenvolvido no curso Start na programação: HTML, CSS e JavaScript da plataforma OneBitCode, envolve uma criação de um site para uma clínica veterinária PetLife, com o objetivo de explorar as melhores práticas de design e desenvolvimento web para apresentar os serviços da clínica e de gerenciamento de experiências e informações.
 
 ## Tecnologias utilizadas:
 
